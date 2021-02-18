@@ -1,3 +1,4 @@
+<!-- This Just Footer for all Pages -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
