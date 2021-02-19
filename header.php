@@ -29,10 +29,13 @@
           Dropdown
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Your Profile</a>
+          <a class="dropdown-item" href="#">Dashboard</a>
+          <a class="dropdown-item" href="#">Your Orders</a>
+          <a class="dropdown-item" href="#">Track Order</a>
+          <a class="dropdown-item" href="#">Log Out</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
+          <a class="dropdown-item" href="#">Setting</a>
         </div>
       </li>
       <li class="nav-item">
